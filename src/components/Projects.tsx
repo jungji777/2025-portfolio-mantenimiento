@@ -13,7 +13,7 @@ const Projects = () => {
       icon: <ShoppingCart className="w-6 h-6" />
     },
     {
-      title: "Sistema de Recomendaciones",
+      title: "Base de datos para instituciones académicas",
       description: "Aplicación web que utiliza algoritmos de filtrado colaborativo y content-based filtering para recomendar productos personalizados.",
       technologies: ["Python", "TensorFlow", "React", "Node.js", "MongoDB", "Docker"],
       image: "https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&w=400",
