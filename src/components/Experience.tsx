@@ -4,9 +4,9 @@ import { Briefcase, GraduationCap, Calendar } from 'lucide-react';
 const Experience = () => {
   const workExperience = [
     {
-      title: "Senior Full-Stack Developer",
-      company: "Tech Solutions Inc.",
-      period: "2022 - Presente",
+      title: "Cientifico de datos & Desarrollador Frontend",
+      company: "Lovelytics.",
+      period: "Inicios de 2024 - Finales de 2024",
       description: "Desarrollo de aplicaciones web escalables usando React y Node.js. Implementación de arquitecturas microservicios y optimización de bases de datos.",
       achievements: [
         "Mejoré el rendimiento de la aplicación principal en un 40%",
