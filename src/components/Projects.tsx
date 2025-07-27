@@ -14,7 +14,7 @@ const Projects = () => {
     },
     {
       title: "Base de datos para instituciones académicas",
-      description: "Aplicación web que utiliza algoritmos de filtrado colaborativo y content-based filtering para recomendar productos personalizados.",
+      description: "Base de datos en MySQL para una academia virtual implementada en Oracle APEX para su gestión en línea.",
       technologies: ["Python", "TensorFlow", "React", "Node.js", "MongoDB", "Docker"],
       image: "https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&w=400",
       github: "https://github.com",
