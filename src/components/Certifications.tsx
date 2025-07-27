@@ -70,7 +70,7 @@ const Certifications = () => {
       title: "Applied Generative AI for Digital Transformation",
       institution: "MIT (Massachusetts Institute of Technology)",
       image: "https://res.cloudinary.com/df5jie5rz/image/upload/v1753313881/MIT-Applied_generative_AI_oelgg9.png",
-      date: "2024",
+      date: "2023",
       description: "Programa especializado en IA Generativa aplicada a la transformación digital, incluyendo GPT, LLMs y aplicaciones empresariales.",
       icon: <GraduationCap className="w-6 h-6" />,
       color: "purple",
