@@ -189,7 +189,7 @@ const Certifications = () => {
                   </div>
                   <div>
                     <h4 className="text-xl font-bold text-gray-900">AWS Certified</h4>
-                    <p className="text-blue-600 font-medium">Solutions Architect Associate</p>
+                    <p className="text-blue-600 font-medium">Machine Learning</p>
                   </div>
                 </div>
                 
@@ -201,7 +201,7 @@ const Certifications = () => {
                 
                 <div className="flex items-center text-sm text-gray-500">
                   <Calendar size={16} className="mr-2" />
-                  <span>Obtenida en 2024</span>
+                  <span>Obtenida en 2025</span>
                   <span className="mx-2">•</span>
                   <span className="flex items-center">
                     <Shield size={16} className="mr-1 text-green-500" />
