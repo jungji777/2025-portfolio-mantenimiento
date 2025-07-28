@@ -6,7 +6,7 @@ const Experience = () => {
     {
       title: "Cientifico de datos & Desarrollador Frontend",
       company: "Lovelytics.",
-      period: "Inicios de 2024 - Finales de 2024",
+      period: "Inicios de 2024 - Actualidad",
       description: "Desarrollo de aplicaciones web escalables usando React y Node.js. Implementación de arquitecturas microservicios y optimización de bases de datos.",
       achievements: [
         "Mejoré el rendimiento de la aplicación principal en un 40%",
