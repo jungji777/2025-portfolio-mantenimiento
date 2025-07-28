@@ -41,9 +41,9 @@ const Experience = () => {
   const education = [
     {
       degree: "Maestría en Ciencia de Datos",
-      institution: "Universidad Tecnológica",
-      period: "2018 - 2020",
-      description: "Especialización en machine learning, análisis estadístico y big data."
+      institution: "ORACLE University",
+      period: "2018 - 2025",
+      description: "Especialización en machine learning, análisis estadístico, big data y baes de datos."
     },
     {
       degree: "Ingeniería en Sistemas Computacionales",
