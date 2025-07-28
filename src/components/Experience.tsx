@@ -4,7 +4,7 @@ import { Briefcase, GraduationCap, Calendar } from 'lucide-react';
 const Experience = () => {
   const workExperience = [
     {
-      title: "Cientifico de datos & Desarrollador Frontend",
+      title: "Data Scientist and Frontend Developer",
       company: "Lovelytics.",
       period: "Inicios de 2024 - Actualidad",
       description: "Desarrollo de aplicaciones web escalables usando React y Node.js. Implementación de arquitecturas microservicios y optimización de bases de datos.",
