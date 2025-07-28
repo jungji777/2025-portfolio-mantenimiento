@@ -46,10 +46,10 @@ const Experience = () => {
       description: "Especialización en machine learning, análisis estadístico, big data y baes de datos."
     },
     {
-      degree: "Maestría en Ciencia de Datos",
-      institution: "ORACLE University",
-      period: "2018 - 2025",
-      description: "Especialización en machine learning, análisis estadístico, big data y baes de datos."
+      degree: "Applied Generative AI for Digital Transformation",
+      institution: "MIT (Massachusetts Institute of Technology)",
+      period: "2023",
+      description: "Programa especializado en IA Generativa aplicada a la transformación digital, incluyendo GPT, LLMs y aplicaciones empresariales."
     },
     {
       degree: "Oxford Artifical Intelligence Programme",
