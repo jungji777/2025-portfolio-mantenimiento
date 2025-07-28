@@ -15,7 +15,7 @@ const Experience = () => {
       ]
     },
     {
-      title: "Pero si hago tengo que hacerle tambien a esa mujer?",
+      title: "Data Scientist & Frontend Developer",
       company: "Upwork / Workana / Fiverr",
       period: "2022 - Actualidad",
       description: "Análisis de grandes volúmenes de datos y desarrollo de modelos de machine learning para predicción de comportamiento de usuarios.",
