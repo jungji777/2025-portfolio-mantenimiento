@@ -9,8 +9,8 @@ const Experience = () => {
       period: "Inicios de 2024 - Actualidad",
       description: "Desarrollo de aplicaciones web escalables usando React y Node.js. Implementación de arquitecturas microservicios y optimización de bases de datos.",
       achievements: [
-        "Mejoré el rendimiento de la aplicación principal en un 40%",
-        "Lideré un equipo de 4 desarrolladores junior",
+        "Limpieza y procesado de datos",
+        "Diseñae e implementar dashboards interactivos con frameworks como React, Vue o Angular",
         "Implementé CI/CD reduciendo el tiempo de deploy en 60%"
       ]
     },
