@@ -29,7 +29,7 @@ const Footer = () => {
                 <Github size={20} />
               </a>
               <a 
-                href="https://www.linkedin.com/in/jungji-betancourth-49bba1345" 
+                href="www.linkedin.com/in/cesar-betancourth-784b54268" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="p-3 bg-gray-800 rounded-2xl hover:bg-blue-600 transition-all duration-200 hover-lift"
