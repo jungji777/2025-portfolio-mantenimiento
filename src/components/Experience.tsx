@@ -4,7 +4,7 @@ import { Briefcase, GraduationCap, Calendar } from 'lucide-react';
 const Experience = () => {
   const workExperience = [
     {
-      title: "Data Scientist and Frontend Developer",
+      title: "Data Scientist & Frontend Developer",
       company: "Lovelytics.",
       period: "Inicios de 2024 - Actualidad",
       description: "Desarrollo de aplicaciones web escalables usando React y Node.js. Implementación de arquitecturas microservicios y optimización de bases de datos.",
@@ -15,9 +15,9 @@ const Experience = () => {
       ]
     },
     {
-      title: "Data Scientist",
-      company: "DataCorp Analytics",
-      period: "2020 - 2022",
+      title: "Pero si hago tengo que hacerle tambien a esa mujer?",
+      company: "Upwork / Workana / Fiverr",
+      period: "2022 - Actualidad",
       description: "Análisis de grandes volúmenes de datos y desarrollo de modelos de machine learning para predicción de comportamiento de usuarios.",
       achievements: [
         "Desarrollé modelos predictivos con 85% de precisión",
