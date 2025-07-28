@@ -11,7 +11,7 @@ const Experience = () => {
       achievements: [
         "Limpieza y procesado de datos",
         "Diseñae e implementar dashboards interactivos con frameworks como React, Vue o Angular.",
-        "Implementé CI/CD reduciendo el tiempo de deploy en 60%"
+        "Traducir resultados complejos de modelos en visualizaciones comprnsibles para el usuario final."
       ]
     },
     {
