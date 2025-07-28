@@ -6,7 +6,7 @@ const Experience = () => {
     {
       title: "Data Scientist & Frontend Developer",
       company: "Lovelytics.",
-      period: "Inicios de 2024 - Actualidad",
+      period: "Inicios de 2024 - Finales de 2024",
       description: "Análisis de grandes volúmenes de datos y desarrollo de modelos de machine learning para predicción de comportamiento de usuarios.",
       achievements: [
         "Limpieza y procesado de datos",
