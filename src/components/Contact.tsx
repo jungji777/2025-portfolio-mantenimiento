@@ -102,7 +102,7 @@ const Contact = () => {
                   <span>GitHub</span>
                 </a>
                 <a 
-                  href="https://www.linkedin.com/in/jungji-betancourth-49bba1345" 
+                  href="www.linkedin.com/in/cesar-betancourth-784b54268" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="glass-button px-4 py-2 text-blue-600 hover:text-blue-700 flex items-center gap-2"
