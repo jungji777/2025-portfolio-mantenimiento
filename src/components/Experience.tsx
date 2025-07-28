@@ -10,7 +10,7 @@ const Experience = () => {
       description: "Desarrollo de aplicaciones web escalables usando React y Node.js. Implementación de arquitecturas microservicios y optimización de bases de datos.",
       achievements: [
         "Limpieza y procesado de datos",
-        "Diseñae e implementar dashboards interactivos con frameworks como React, Vue o Angular",
+        "Diseñae e implementar dashboards interactivos con frameworks como React, Vue o Angular.",
         "Implementé CI/CD reduciendo el tiempo de deploy en 60%"
       ]
     },
