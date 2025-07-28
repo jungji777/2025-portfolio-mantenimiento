@@ -48,7 +48,7 @@ const Hero = () => {
             <Github size={24} />
           </a>
           <a 
-            href="https://www.linkedin.com/in/jungji-betancourth-49bba1345" 
+            href="www.linkedin.com/in/cesar-betancourth-784b54268" 
             target="_blank" 
             rel="noopener noreferrer"
             className="social-link linkedin"
