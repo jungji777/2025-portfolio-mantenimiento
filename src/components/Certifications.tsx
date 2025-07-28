@@ -274,6 +274,7 @@ const Certifications = () => {
             <span className="badge">Docker Certified Associate</span>
             <span className="badge">Terraform Associate</span>
             <span className="badge">Google Cloud Professional</span>
+            <span className="badge">Applied Calculation By Harvard</span>
           </div>
         </div>
       </div>
