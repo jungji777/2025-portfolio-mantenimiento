@@ -7,7 +7,7 @@ const Experience = () => {
       title: "Data Scientist & Frontend Developer",
       company: "Lovelytics.",
       period: "Inicios de 2024 - Actualidad",
-      description: "Desarrollo de aplicaciones web escalables usando React y Node.js. Implementación de arquitecturas microservicios y optimización de bases de datos.",
+      description: "Análisis de grandes volúmenes de datos y desarrollo de modelos de machine learning para predicción de comportamiento de usuarios.",
       achievements: [
         "Limpieza y procesado de datos",
         "Diseñae e implementar dashboards interactivos con frameworks como React, Vue o Angular.",
@@ -18,7 +18,7 @@ const Experience = () => {
       title: "Data Scientist & Frontend Developer",
       company: "Upwork / Workana / Fiverr",
       period: "2022 - Actualidad",
-      description: "Análisis de grandes volúmenes de datos y desarrollo de modelos de machine learning para predicción de comportamiento de usuarios.",
+      description: "Desarrollo de aplicaciones web escalables usando React y Node.js. Implementación de arquitecturas microservicios y optimización de bases de datos.",
       achievements: [
         "Desarrollé modelos predictivos con 85% de precisión",
         "Automaticé pipelines de datos procesando 100M+ registros",
