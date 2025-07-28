@@ -46,10 +46,16 @@ const Experience = () => {
       description: "Especialización en machine learning, análisis estadístico, big data y baes de datos."
     },
     {
-      degree: "Ingeniería en Sistemas Computacionales",
-      institution: "Instituto Tecnológico Superior",
-      period: "2014 - 2018",
-      description: "Fundamentos sólidos en programación, algoritmos y estructuras de datos."
+      degree: "Maestría en Ciencia de Datos",
+      institution: "ORACLE University",
+      period: "2018 - 2025",
+      description: "Especialización en machine learning, análisis estadístico, big data y baes de datos."
+    },
+    {
+      degree: "Oxford Artifical Intelligence Programme",
+      institution: "University of Oxford",
+      period: "2023 - 2024",
+      description: "Programa avanzado en Inteligencia Artificial que cubre machine learning, deep learning, ética en IA y aplicaciones empresariales."
     }
   ];
 
