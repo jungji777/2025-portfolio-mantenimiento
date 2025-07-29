@@ -18,7 +18,7 @@ const Projects = () => {
       technologies: ["Python", "Oracle DM", "React", "Mysql", "Oracle 12c", "Oracle Apex"],
       image: "https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&w=400",
       github: "https://github.com",
-      demo: "https://iacademy2.oracle.com/ords/r/hn_a105_plsql_t01/doritos-academy/home?session=7380258856526",
+      demo: "https://iacademy2.oracle.com/ords/r/hn_a105_plsql_t01/jungji-academy/home?session=3250143451926",
       icon: <Brain className="w-6 h-6" />
     },
     {
