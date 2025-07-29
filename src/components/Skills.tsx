@@ -47,6 +47,7 @@ const Skills = () => {
       icon: <Database className="w-6 h-6" />,
       color: "red",
       skills: [
+        { name: "Oracle Apex", level: 99 },
         { name: "PostgreSQL", level: 85 },
         { name: "MongoDB", level: 80 },
         { name: "MySQL", level: 75 },
