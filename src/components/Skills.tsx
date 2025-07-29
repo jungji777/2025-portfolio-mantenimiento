@@ -8,12 +8,12 @@ const Skills = () => {
       icon: <Code className="w-6 h-6" />,
       color: "blue",
       skills: [
-        { name: "React", level: 90 },
-        { name: "TypeScript", level: 85 },
+        { name: "React", level: 100 },
+        { name: "TypeScript", level: 100 },
         { name: "JavaScript", level: 95 },
         { name: "HTML/CSS", level: 90 },
         { name: "Tailwind CSS", level: 80 },
-        { name: "Vue.js", level: 70 }
+        { name: "Vue.js", level: 99 }
       ]
     },
     {
