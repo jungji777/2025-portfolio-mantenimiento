@@ -64,7 +64,7 @@ const Skills = () => {
         { name: "AWS", level: 75 },
         { name: "Docker", level: 80 },
         { name: "Vercel", level: 85 },
-        { name: "Netlify", level: 80 },
+        { name: "Netlify", level: 99 },
         { name: "GitHub Actions", level: 70 },
         { name: "Linux", level: 75 }
       ]
